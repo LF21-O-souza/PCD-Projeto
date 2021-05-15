@@ -6,5 +6,7 @@
 <p>Antônia Vanessa</p>
 
 <h2>Colaboradores</h2>
-<a href="Adriano888">Adriano Machado</a><br>
-<a href=""></a>
+<a href="https://github.com/Adriano888">Adriano Machado</a><br>
+<a href="https://github.com/LF21-O-souza">Luis Felipe Souza</a><br>
+<a href="https://github.com/p3drodeveloper">Pedro Jardel</a><br>
+<a href="https://github.com/thiagoam74">Thiago Miranda</a>
