@@ -15,4 +15,4 @@
 <a href="https://github.com/thiagoam74">Thiago Miranda</a>
 
 <h2>Objetivos</h2>
-<p>Para acessá-lo <a href="">clique aqui</a></p>
+<p>Para acessá-lo <a href="https://github.com/LF21-O-souza/PCD-Projeto/wiki/Principal">clique aqui</a></p>
