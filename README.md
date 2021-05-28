@@ -1,5 +1,5 @@
 <h1>Projeto de conclusão de disciplina</h1>
-!  [] (https://github.com/LF21-O-souza/PCD-Projeto/blob/main/pa1.jpeg)
+!  [imagem] (https://github.com/LF21-O-souza/PCD-Projeto/blob/main/pa1.jpeg)
 <h2>Instituição</h2>
 <a href="https://github.com/NT-Facimp">Faculdade de Imperatriz</a>
 
