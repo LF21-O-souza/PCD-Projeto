@@ -6,7 +6,7 @@
 <a href="https://github.com/NT-Facimp">Faculdade de Imperatriz</a>
 
 <h2>Orientadora</h2>
-<p>Antônia Vanessa</p>
+<p>Antônia Vanessa Dias Araújo</p>
 
 <h2>Colaboradores</h2>
 <a href="https://github.com/Adriano888">Adriano Machado</a><br>
