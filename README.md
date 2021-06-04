@@ -14,6 +14,5 @@
 <a href="https://github.com/p3drodeveloper">Pedro Jardel</a><br>
 <a href="https://github.com/thiagoam74">Thiago Miranda</a>
 
-  <h2> Introdução: Padrões de Projetos </h2>
-<h2>Objetivos</h2>
+  <h2>Sumário </h2>
 <p>Para acessá-lo <a href="https://github.com/LF21-O-souza/PCD-Projeto/wiki/Principal">clique aqui</a></p>
