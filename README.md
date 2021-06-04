@@ -1,5 +1,5 @@
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farquivo.devmedia.com.br%2Fmarketing%2Fimg%2Fguia-padroes-de-projeto-em-java-34456.png&f=1&nofb=1">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi1.wp.com%2Fblog.askm.com.br%2Fwp-content%2Fuploads%2F2019%2F01%2Fsoftware_architecture08.jpg%3Fw%3D640&f=1&nofb=1">
 <h1>Projeto de conclusão de disciplina</h1
   
 <h2> Instituição </h2>
