@@ -1,6 +1,6 @@
 <h1>Projeto de conclusão de disciplina</h1
   
-<img src="https://i1.wp.com/blog.askm.com.br/wp-content/uploads/2019/01/software_architecture08.jpg?w=640">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Farquivo.devmedia.com.br%2Fmarketing%2Fimg%2Fguia-padroes-de-projeto-em-java-34456.png&f=1&nofb=1">
   
 <h2> Instituição </h2>
 <a href="https://github.com/NT-Facimp">Faculdade de Imperatriz</a>
