@@ -3,10 +3,10 @@
 <h1>Projeto de conclusão de disciplina</h1>
 <h1>Programação Avançada</h1>
   
-<h2> Instituição </h2>
+<h2> Instituição: </h2>
 <a href="https://github.com/NT-Facimp">Faculdade de Imperatriz</a>
 
-<h2>Orientadora</h2>
+<h2>Orientadora:</h2>
   <a href="https://github.com/AntoniaVanessa">Antônia Vanessa Dias Araújo</a><br>
 
 <h2>Colaboradores</h2>
