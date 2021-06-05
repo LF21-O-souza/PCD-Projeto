@@ -9,7 +9,7 @@
 <h2>Orientadora:</h2>
   <a href="https://github.com/AntoniaVanessa">Antônia Vanessa Dias Araújo</a><br>
 
-<h2>Colaboradores</h2>
+<h2>Colaboradores:</h2>
 <a href="https://github.com/Adriano888">Adriano Machado</a><br>
 <a href="https://github.com/LF21-O-souza">Luis Felipe Souza</a><br>
 <a href="https://github.com/p3drodeveloper">Pedro Jardel</a><br>
